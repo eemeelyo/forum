@@ -1,4 +1,4 @@
-<?php require "include/header.php"; ?>
+<?php require "includes/header.php"; ?>
           <!-- Main content -->
           <div style="margin-top: 43px;" class="col-lg-9 mb-3">
             <!-- <div class="row text-left mb-5">
@@ -77,6 +77,5 @@
               </div>
             </div>
             <!-- /End of post 4 -->
-       
           </div>
 <?php require "includes/footer.php"; ?>
